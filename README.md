@@ -1,3 +1,7 @@
+## 📊 Dashboard Preview
+
+![Dashboard Screenshot](![Uploading Screenshot 2026-01-18 191409.png…]()
+)
 ---
 
 ## 📂 Project Files
